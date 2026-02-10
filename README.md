@@ -11,4 +11,5 @@ First of all, we connect Arduino to the mindflex device to test and check the da
 # REFERENCES
 https://www.medicine.mcgill.ca/physio/vlab/biomed_signals/eeg_n.htm                      (detailed knowledge about EEG)
 https://github.com/kitschpatrol/BrainGrapher  (github code library)
+
 https://www.electrical4u.com/eeg-measurement/ (EEG recording setup)
