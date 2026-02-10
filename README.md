@@ -5,6 +5,7 @@ The research project involves biomedical and computer systems knowledge to use t
 
  <img width="400" height="475" alt="GHBanner" src="https://github.com/Cornelia-Chen/Mindcontroller/blob/main/Block%20Diagram.png?raw=true" />
  <img width="700" height="675" alt="GHBanner" src="https://github.com/Cornelia-Chen/Mindcontroller/blob/main/DC%20motor.png?raw=true" />
+  <img width="300" height="475" alt="GHBanner" src="https://github.com/Cornelia-Chen/Mindcontroller/blob/main/DC%20motor.png?raw=true" />
 
 
 # HARDWARE & SOFTWARE
