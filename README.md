@@ -3,7 +3,7 @@
 
 The research project involves biomedical and computer systems knowledge to use the brain wave signals to control DC motors. This project can help people with disabilities who have limited physical movement. The mind-control project sensors are put on the head of a person to help them easily control various devices. Therefore, this project combines biomedical and computer knowledge. It makes it convenient for a person with a physical disability to use the EEG brain signals to control a machine,  a robot arm, or a wheelchair, etc.
 
- <img width="400" height="475" alt="GHBanner" src="https://github.com/Cornelia-Chen/Mindcontroller/blob/main/Block%20Diagram.png?raw=true" />
+ <img width="400" height="475" alt="GHBanner" src="[https://github.com/Cornelia-Chen/Mindcontroller/blob/main/Block%20Diagram.png?raw=true](https://github.com/Cornelia-Chen/Mindcontroller/blob/main/electrode_positionungleft.PNG?raw=true)" />
  <img width="700" height="675" alt="GHBanner" src="https://github.com/Cornelia-Chen/Mindcontroller/blob/main/DC%20motor.png?raw=true" />
   <img width="300" height="475" alt="GHBanner" src="https://github.com/Cornelia-Chen/Mindcontroller/blob/main/controlmotor.JPG?raw=true" />
 
